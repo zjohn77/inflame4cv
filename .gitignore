@@ -24,6 +24,8 @@ lib64/
 parts/
 sdist/
 var/
+*.code-workspace
+
 wheels/
 *.egg-info/
 .installed.cfg
